@@ -1,0 +1,22 @@
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.AssemblyReference.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe.config
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.AssemblyReference.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe.config
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\CalculatorConsoleAppGen2\CalculatorConsoleApp2\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb

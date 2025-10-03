@@ -1,0 +1,7 @@
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\PERKULIAHAN\SEMESTER 3\PEMROGRAMAN LANJUT\Pertemuan 1\New folder\CalculatorConsoleApp2\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
